@@ -1,0 +1,6 @@
+@ClassTask_HostAddress = http://localhost:5245
+
+GET {{ClassTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
