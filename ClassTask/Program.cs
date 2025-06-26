@@ -5,6 +5,8 @@ using ClassTask.Services.Implementations;
 using ClassTask.Services.Interfaces;
 using ClassTask.UnitOfWork.Implementation;
 using ClassTask.UnitOfWork.Interface;
+using ClassTask.Validations;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +25,9 @@ builder.Services.AddScoped<IMediaUserRepository, MediaUserRepository>();
 builder.Services.AddScoped<IMediaUserService, MediaUserService>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+builder.Services.AddValidatorsFromAssemblyContaining<SignUpValidator>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,3 +44,9 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+public partial class Program
+{
+
+}

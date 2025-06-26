@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|c:\\users\\user\\desktop\\sysbeamsexecrise\\projects\\classproject\\classtask\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|c:\\users\\user\\desktop\\sysbeamsexecrise\\projects\\classproject\\classtask\\classtask\\controllers\\mediausercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\controllers\\mediausercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|c:\\users\\user\\desktop\\sysbeamsexecrise\\projects\\classproject\\classtask\\classtask\\dtos\\mediauserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\dtos\\mediauserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|c:\\users\\user\\desktop\\sysbeamsexecrise\\projects\\classproject\\classtask\\classtask\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|c:\\users\\user\\desktop\\sysbeamsexecrise\\projects\\classproject\\classtask\\classtask\\services\\implementations\\mediauserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253EA844-C6B1-4A14-8C32-571B176DFE92}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\services\\implementations\\mediauserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaUserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Controllers\\MediaUserController.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Controllers\\MediaUserController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Controllers\\MediaUserController.cs",
+              "RelativeToolTip": "ClassTask\\Controllers\\MediaUserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:28:00.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediaUserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Services\\Implementations\\MediaUserService.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Services\\Implementations\\MediaUserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Services\\Implementations\\MediaUserService.cs",
+              "RelativeToolTip": "ClassTask\\Services\\Implementations\\MediaUserService.cs",
+              "ViewState": "AgIAAFYAAAAAoJmZmZnJv2UAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:16:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Dtos\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Dtos\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Dtos\\ResponseDto.cs",
+              "RelativeToolTip": "ClassTask\\Dtos\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:57:10.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Dtos\\MediaUserDto.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Dtos\\MediaUserDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Dtos\\MediaUserDto.cs",
+              "RelativeToolTip": "ClassTask\\Dtos\\MediaUserDto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:36:27.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sysbeamsExecrise\\Projects\\ClassProject\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeToolTip": "ClassTask\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:16:49.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

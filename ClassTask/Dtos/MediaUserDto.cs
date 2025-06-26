@@ -8,7 +8,7 @@ namespace ClassTask.Dtos
         public required string Email { get; set; }
         public required string PhoneNumber { get; set; }
         public string UserName { get; set; } = string.Empty;
-        public required string FullName { get; set; } 
+        public required string FullName { get; set; }
         public required DateOnly DateOfBirth { get; set; }
         public string Address { get; set; } = string.Empty;
         public DateTime DateAdded { get; set; }
@@ -34,7 +34,7 @@ namespace ClassTask.Dtos
         [Phone]
         public required string PhoneNumber { get; set; }
 
-        [StringLength(10,MinimumLength = 5)]
+        [StringLength(10, MinimumLength = 5)]
         [RegularExpression(@"^[a-zA-Z0-9_]+$", ErrorMessage = "Username can only contain letters, numbers, and underscores.")]
         public string UserName { get; set; } = string.Empty;
 
@@ -46,7 +46,7 @@ namespace ClassTask.Dtos
         [StringLength(23)]
         public required string LastName { get; set; }
 
-        [Required]
+        // [Required]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public required DateOnly DateOfBirth { get; set; }
